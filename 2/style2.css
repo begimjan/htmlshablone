@@ -1,0 +1,31 @@
+.ye{
+	background: yellow;
+	height: 100px;
+	padding-top: 20px;
+}
+img{
+	
+	margin-left: 10px;
+	height: 60px;
+	width: 100px;
+}
+.flex{
+	display: flex;
+}
+.green{
+	background: green;
+	height: 400px;
+	padding-top: 30px;
+}
+.red{
+	margin-left: 30px;
+	background: red;
+	height: 300px;
+	width: 200px;
+}
+.red2{
+	background: red;
+	margin-left: 30px;
+	height: 300px;
+	width: 500px;
+}
